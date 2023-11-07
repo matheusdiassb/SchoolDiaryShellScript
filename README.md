@@ -1,1 +1,1 @@
-Este é um envio teste para o github
+Programa desenvolvido para auxiliar no planejamento do semestre
