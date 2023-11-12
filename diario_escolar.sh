@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#funcao retirada do modelo de codigo da prova
+#funcao usada para matar o programa
 function fatal() {
 	echo "[-] Error: $@" 1>&2;
 	exit 1;
